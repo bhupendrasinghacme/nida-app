@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svg="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://web.resource.org/cc/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="535" height="289">
+<path style="fill:#5b5b5d; stroke:none;" d="M0 0L0 289L7 289L7 0L0 0z"/>
+<path style="fill:#f71b05; stroke:none;" d="M7 0L7 289L8 289L8 85L8 26L7 0z"/>
+<path style="fill:#ff0101; stroke:none;" d="M8 0L8 289L183 289L183 0L8 0z"/>
+<path style="fill:#ffe72f; stroke:none;" d="M183 0L183 221L183 273C183 277.385 180.851 287.897 186 289L186 288L184 268L184 217L184 64L184 20L183 0z"/>
+<path style="fill:#ffff01; stroke:none;" d="M184 0L184 288L358 288L358 0L184 0z"/>
+<path style="fill:#5faf17; stroke:none;" d="M358 0L358 289L359 289L359 85L359 26L358 0z"/>
+<path style="fill:#019901; stroke:none;" d="M359 0L359 288L533 288L533 0L359 0z"/>
+<path style="fill:#198101; stroke:none;" d="M533 0L533 288L359 288L359 289L534 289L534 85L534 26L533 0z"/>
+<path style="fill:#ffffff; stroke:none;" d="M534 0L534 289L535 289L535 85L535 26L534 0z"/>
+<path style="fill:#d1d135; stroke:none;" d="M186 288L186 289L358 289C344.879 283.494 321.3 288 307 288L186 288z"/>
+</svg>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    id="svg378"
+    inkscape:version="0.48.3.1 r9886"
+    viewBox="0 0 1075.3 745.12"
+    sodipodi:version="0.32-hydra1"
+    version="1"
+    y="0"
+    x="0"
+    sodipodi:docname="_svgclean2.svg"
+  >
+  <sodipodi:namedview
+      id="base"
+      inkscape:window-x="0"
+      inkscape:window-y="0"
+      inkscape:window-height="645"
+      inkscape:window-maximized="0"
+      inkscape:zoom="0.22425739"
+      showgrid="false"
+      inkscape:current-layer="svg378"
+      inkscape:cx="377.88514"
+      inkscape:cy="218.58941"
+      inkscape:window-width="674"
+    >
+    <sodipodi:guide
+        id="guide626"
+        position="200.71324,-307.59168"
+        orientation="vertical"
+    />
+    <sodipodi:guide
+        id="guide627"
+        position="527.01612,-307.59168"
+        orientation="vertical"
+    />
+  </sodipodi:namedview
+  >
+  <rect
+      id="rect628"
+      style="fill-rule:evenodd;fill:#ffffff"
+      height="744.09"
+      width="1073.5"
+      y=".34991"
+      x=".53795"
+  />
+  <path
+      id="path623"
+      inkscape:connector-curvature="0"
+      sodipodi:nodetypes="cccc"
+      style="fill-rule:evenodd;fill:#3662a2"
+      d="m0 0.35 1.246 536.41 835.33-536.76-836.57 0.3496z"
+  />
+  <path
+      id="path624"
+      inkscape:connector-curvature="0"
+      sodipodi:nodetypes="cccc"
+      style="fill-rule:evenodd;fill:#38a100"
+      d="m1075.3 744.44-1.9-557.75-842.62 558.17 844.52-0.42z"
+  />
+  <path
+      id="path625"
+      inkscape:connector-curvature="0"
+      sodipodi:nodetypes="ccccccc"
+      style="fill-rule:evenodd;fill:#c70000"
+      d="m0.5378 577.2 0.7082 167.92 182.29-0.24 890.33-596.88-1-145.99l-180.17-1.66-892.18 576.85z"
+  />
+  <polygon
+      id="polygon715"
+      style="fill-rule:evenodd;stroke-width:1pt;fill:#ffe700"
+      sodipodi:type="star"
+      sodipodi:sides="12"
+      sodipodi:r1="116.89579"
+      sodipodi:r2="81.827049"
+      sodipodi:arg1="1.0147401"
+      sodipodi:arg2="1.2765396"
+      transform="matrix(.90865 .034629 -.036379 .9087 38.447 32.557)"
+      inkscape:randomized="0"
+      d="m 223.81121,249.35391 -37.97017,-20.97471 -19.93871,38.52427 -22.39578,-37.14972 -36.52956,23.39363 -0.82045,-43.37048 -43.332351,1.9947 20.97471,-37.97017 -38.524264,-19.93871 37.149716,-22.39578 -23.393635,-36.529562 43.370484,-0.820453 -1.9947,-43.332348 37.97017,20.97471 19.93871,-38.524264 22.39578,37.149717 36.52956,-23.393636 0.82046,43.370487 43.33234,-1.994702 -20.97471,37.970171 38.52427,19.93871 -37.14972,22.39578 23.39364,36.52956 -43.37049,0.82045 z"
+      sodipodi:cy="150.06924"
+      sodipodi:cx="162.10886"
+      inkscape:rounded="0"
+      inkscape:flatsided="false"
+      points="223.81 249.35 185.84 228.38 165.9 266.9 143.51 229.75 106.98 253.15 106.16 209.78 62.824 211.77 83.799 173.8 45.275 153.86 82.424 131.47 59.031 94.937 102.4 94.117 100.41 50.785 138.38 71.759 158.32 33.235 180.71 70.385 217.24 46.991 218.06 90.362 261.39 88.367 240.42 126.34 278.94 146.28 241.79 168.67 265.19 205.2 221.82 206.02"
+  />
+  <path
+      id="path716"
+      sodipodi:rx="56.653957"
+      sodipodi:ry="56.653954"
+      style="fill-rule:evenodd;fill:#3662a2"
+      sodipodi:type="arc"
+      d="m239.52 185.41a56.654 56.654 0 1 1 -113.31 0 56.654 56.654 0 1 1 113.31 0z"
+      transform="matrix(1.2772 0 0 1.2673 -53.271 -60.433)"
+      sodipodi:cy="185.40787"
+      sodipodi:cx="182.86328"
+  />
+  <path
+      id="path717"
+      sodipodi:rx="56.653957"
+      sodipodi:ry="56.653954"
+      style="fill-rule:evenodd;fill:#ffe700"
+      sodipodi:type="arc"
+      d="m239.52 185.41a56.654 56.654 0 1 1 -113.31 0 56.654 56.654 0 1 1 113.31 0z"
+      transform="translate(-2.5761 -10.869)"
+      sodipodi:cy="185.40787"
+      sodipodi:cx="182.86328"
+  />
+  <metadata
+      id="metadata13"
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>

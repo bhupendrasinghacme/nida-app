@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns:ns1="http://sozi.baierouge.fr" id="svg1207" inkscape:version="0.48.3.1 r9886" viewBox="0 0 992.13 496.06" sodipodi:version="0.33pre" version="1.1" sodipodi:docname="_svgclean2.svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <sodipodi:namedview id="base" inkscape:window-x="0" inkscape:window-y="0" snaptogrid="false" inkscape:window-maximized="0" inkscape:zoom="0.22425739" inkscape:window-height="645" showgrid="true" inkscape:current-layer="svg1207" inkscape:cx="372.05098" inkscape:cy="-30.121109" inkscape:window-width="674">
+    <sodipodi:guide id="guide1278" position="0.00374,-272.6599" orientation="horizontal"/>
+    <sodipodi:guide id="guide1279" position="0.00374,-440.606" orientation="horizontal"/>
+  </sodipodi:namedview>
+  <rect id="rect3472" style="fill-rule:evenodd;stroke-width:1pt;fill:#ffff00" height="488.61" width="992.13" y=".0000028150" x="0.00374"/>
+  <rect id="rect1276" style="fill-rule:evenodd;stroke-width:1pt;fill:#009d00" height="141.73" width="992.13" y=".000013815" x=".003816"/>
+  <rect id="rect3471" style="fill-rule:evenodd;stroke-width:1pt;fill:#009d00" height="141.73" width="992.13" y="354.33" x="0.00374"/>
+  <path id="path570" inkscape:connector-curvature="0" sodipodi:nodetypes="cccc" style="fill-rule:evenodd;fill:#f10600" d="m0.69 0c1.3725 0 247.34 245.16 247.34 245.16l-248.03 250.9 0.68626-496.06z"/>
+  <g id="g1310" transform="translate(.00374 -364.94)">
+    <polygon id="polygon136" style="fill-rule:evenodd;stroke-width:1pt;fill:#000000" points="498.45 365.81 441.12 324.21 511.95 324.28 533.78 256.9 555.61 324.28 626.44 324.23 569.1 365.81 591.04 433.16 533.77 391.48 476.5 433.15" transform="matrix(.70904 0 0 .73035 367.01 360.98)"/>
+    <polygon id="polygon1309" style="fill-rule:evenodd;stroke-width:1pt;fill:#000000" points="498.45 365.81 441.12 324.21 511.95 324.28 533.78 256.9 555.61 324.28 626.44 324.23 569.1 365.81 591.04 433.16 533.77 391.48 476.5 433.15" transform="matrix(.70904 0 0 .73035 116.64 360.98)"/>
+  </g>
+  <metadata id="metadata13">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
